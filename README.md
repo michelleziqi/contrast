@@ -6,10 +6,9 @@ layout: page
 <html lang="en">
 <head>
     <meta charset="utf-8"/>
-    <title><h1 align="center">Michelle Yang</h1></title>
+    <h1 align="center"><title>Michelle Yang</title></h1>
 </head>
 <body>
-<h1>About Me</h1>
 <p> Hello, I am Michelle Yang. It's a pleasure to share my experience, knowledge, and life here. </p>
 <p> I graduated from the University of Windsor with a Master’s Degree in Economics and hold an Honors Bachelor of Science in Economics and Statistics from the University of Toronto. Throughout my university years, I was deeply passionate about research, economics, and statistics. Financial volatilities, such as those seen during Covid-19 and the 2008-2009 financial crisis, have profoundly affected financial markets, impacting various aspects of our lives, including housing, business, and employment. Thanks to the guidance of my professors, I’ve realized that quantitative modeling and machine learning are vital tools for solving a wide range of problems when I was studying mathematical economics and econometric courses and working as a research assistant. Also, we can apply these skills to internal controls and risk management in financial markets. During my step-by-step learning and life experiences, my internship as a risk management analyst in China further honed my analytical skills, deepening my understanding of regulations, risk factors, and the business values of enterprises. </p>
   
