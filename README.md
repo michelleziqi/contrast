@@ -1,6 +1,6 @@
 ---
-title: "About Me"
-permalink: "/about me/"
+title: "About Me", "About Me"
+permalink: "/about me/", "Home"
 layout: page
 ---
 <html lang="en">
