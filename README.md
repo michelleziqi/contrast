@@ -19,9 +19,8 @@ layout: page
 </html>
 
 
----
-title: "Projects"
-permalink: "/about me/"
+--- title: "Projects"
+permalink: "/Projects/"
 layout: page
 ---
 [Master Thesis](https://scholar.uwindsor.ca/major-papers/139/)
