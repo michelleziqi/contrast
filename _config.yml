@@ -18,8 +18,8 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: Home}
   - {file: "README.md", title: About Me}
-  - {file: "project.html", title: Projects}
-  - {file: "michelle.pdf", title:"CV"}
+  - {title: "project", file: "/projects.md"}
+  - {file: "/michelle.pdf", title:"CV"}
 
 external:
   - {title:email, icon: envelope, url: "michelleziqi@gmail.com"}
