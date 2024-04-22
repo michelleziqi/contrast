@@ -21,9 +21,5 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "project", file: "/projects.md"}
   - {file: "/michelle.pdf", title:"CV"}
 
-external:
-  - {title:email, icon: envelope, url: "michelleziqi@gmail.com"}
-  - {title:Linkedin, icon: Linkedin, url: "https://www.linkedin.com/in/ziqi-yang-2bb1b98a/"}
-
 plugins:
  - jekyll-feed
