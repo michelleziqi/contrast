@@ -16,10 +16,10 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
-  - {file: "project.html"}
-  - {file: "cv.md", title:"cv", iconL home}
+  - {file: "index.html", title: Hme Change, icon:home}
+  - {file: "README.md", title: About Me, icon: address-card}
+  - {file: "project.html", title:Projects}
+  - {file: "cv.md", title:"cv"}
 
 external:
   - {title:email, icon: envelope, url: "michelleziqi@gmail.com"}
