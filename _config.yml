@@ -19,7 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: Home}
   - {file: "README.md", title: About Me}
   - {title: "Project", file: "/project.md"}
-  - {file: "Ziqi Yang Resume 2024.pdf", title:"CV"}
-
+  - {title: "CV", file:"Ziqi Yang Resume 2024.pdf"}
+  
 plugins:
  - jekyll-feed
