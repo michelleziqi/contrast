@@ -17,6 +17,7 @@ layout: page
 
 <p> Continuous learning is a profound goal of mine, and I am dedicated to continually strengthening my abilities and skills. In my spare time, I enjoy dancing and swimming for relaxation. Like most people, I also enjoy traveling, exploring different cuisines, and engaging in both outdoor and indoor activities. As an enthusiastic tennis player with a 2.0 rating, I warmly welcome you to reach out to play a game!</p>
 
-My [Master Thesis](https://scholar.uwindsor.ca/major-papers/139/), [Projects](https://michelleziqi.github.io/projects), [cv]() could be accessible here.
+My Master Thesis <a class="fancy-link" href="https://scholar.uwindsor.ca/major-papers/139/"></a>), Projects, and CV could be accessible here.
+
 </body>
 </html>
