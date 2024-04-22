@@ -8,7 +8,7 @@ date_format: "%B %d, %Y"
 
 # Layout
 
-show_excerpts: false        # show article excerpts on the home page
+show_excerpts: true        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
 show_sidebar: false        # show a sidebar instead of the usual header
 minimal: false             # use a dark header
@@ -19,6 +19,11 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html"}
   - {file: "README.md"}
   - {file: "project.html"}
-  - {file: "cv.md"}
+  - {file: "cv.md", title:"cv", iconL home}
+
+external:
+  - {title:email, icon: envelope, url: "michelleziqi@gmail.com"}
+  - {title:Linkedin, icon: Linkedin, url: "https://www.linkedin.com/in/ziqi-yang-2bb1b98a/"}
+
 plugins:
  - jekyll-feed
