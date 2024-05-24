@@ -17,6 +17,6 @@ layout: page
 
 <p> Continuous learning is a profound goal of mine, and I am dedicated to continually strengthening my abilities and skills. In my spare time, I enjoy dancing and swimming for relaxation. Like most people, I also enjoy traveling, exploring different cuisines, and engaging in both outdoor and indoor activities. As an enthusiastic tennis player, I warmly welcome you to reach out to play a game!</p>
 
-My <a href="https://michelleziqi.github.io/project/">Projects</a> (including Master Thesis) could be accessible here.
+My <a href="https://michelleziqi.github.io/project/">Projects</a> could be accessible here.
 </body>
 </html>
