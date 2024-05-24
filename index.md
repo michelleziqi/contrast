@@ -3,8 +3,8 @@ layout: default
 title: Home
 ---
 
-<div style="margin: 20px auto; width: 80%; max-width: 800px; text-align: left;">
-  <h1 style="text-align: center;"> Welcome to My Personal Website </h1>
+<div style="margin: 20px auto; width: 80%; max-width: 800px;">
+  <h1 style="text-align: center;">Welcome to My Personal Website</h1>
   <p>Hello! I'm Michelle, passionate about risk management. Click <a href="https://michelleziqi.github.io/about%20me/">About Me</a> to get more details.</p>
   <p>Below are some of my projects.</p>
 
