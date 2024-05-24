@@ -1,7 +1,6 @@
 ---
 title: "About Me"
 permalink: "/about me/"
-layout: page
 ---
 
 Hello, I am Michelle Yang. It's a pleasure to share my experience, knowledge, and life here.
