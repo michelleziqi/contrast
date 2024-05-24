@@ -1,43 +1,62 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Michelle Yang's Personal Website</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            background-color: #f4f4f4;
-            text-align: center;
+<link rel='stylesheet' href='https://use.fontawesome.com/releases/v5.7.0/css/all.css' integrity='sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ' crossorigin='anonymous'>
+<style>
+    .project {
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+    h4 {
+        padding-left: 20px;
+        color: #f0a1a8;
+    }
+    .project a.main-nav-item {
+        text-decoration: none;
+        transition: color 0.3s linear;
+        -webkit-transition: color 0.3s linear;
+        -moz-transition: color 0.3s linear;
+    }
+    .project a.main-nav-item:hover {
+        color: #ed5a65;
+        text-decoration: none;
+    }
+    .main-nav-item {
+        display: inline-block;
+    }
+    .title {
+        display: table;
+    }
+    .fa-file-alt,
+    h4 {
+        display: table-cell;
+        vertical-align: top;
+    }
+    .fa-terminal,
+    p {
+        margin-left: 40px;
+        word-wrap: break-word;
+    }
+    .fa-terminal {
+        color: #999;
+    }
+    .fa-file {
+        margin-left: 45px;
+        word-wrap: break-word;
+        color: #999;
+    }
+    @media only screen and (max-width: 568px) {
+        .fa-file .fa-file {
+            margin-left: 10px;
         }
-        main {
-            width: 80%;
-            max-width: 800px;
-            margin: 0 auto;
-            background-color: #fff;
-            padding: 20px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-            border-radius: 5px;
-        }
-        .project-list {
-            list-style-type: none;
-            padding: 0;
-        }
-        .project-list li {
-            background-color: #f9f9f9;
-            margin: 10px 0;
-            padding: 10px;
-            border-radius: 5px;
-            box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
-        }
-    </style>
-</head>
+    }
+    .fancy-link {
+        text-decoration: none;
+        transition: color 0.3s linear;
+        -webkit-transition: color 0.3s linear;
+        -moz-transition: color 0.3s linear;
+    }
+    .fancy-link:hover {
+        color: #ed5a65;
+    }
+</style>
 <body>
     <main>
         <section>
@@ -46,20 +65,7 @@
             <p>Below are some of my projects.</p>
         </section>
         <section>
-            <h2>Projects</h2>
-            <ul class="project-list">
-                <li>
-                    <h3>Project 1</h3>
-                    <p>Description of project 1.</p>
-                    <a href="https://github.com/username/project1">More Details</a>
-                </li>
-                <li>
-                    <h3>Project 2</h3>
-                    <p>Description of project 2.</p>
-                    <a href="https://github.com/username/project2">More Details</a>
-                </li>
-                <!-- Add more projects as needed -->
-            </ul>
+            {% _posts Project %}
         </section>
     </main>
 </body>
