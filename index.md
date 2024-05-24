@@ -9,6 +9,6 @@ title: Home
   <p>Below are some of my projects.</p>
 
   <div style="margin: 20px 0;">
-    {% projects.md %}
+    {% include projects.md %}
   </div>
 </div>
