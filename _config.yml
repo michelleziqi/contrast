@@ -19,6 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: Home}
   - {file: "README.md", title: About Me}
   - {title: "Project", file: "project.md"}
+  - {title: "LinkedIn", url: "https://www.linkedin.com/in/ziqi-yang-2bb1b98a/"}
   
 plugins:
  - jekyll-feed
