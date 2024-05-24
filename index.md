@@ -2,7 +2,7 @@
 <body>
     <header>
         <h1>Welcome to My Personal Website</h1>
-        <p>Hello! I'm Michelle, passionate about risk management. Click <a href="README.md">About Me</a> to get more details </p>
+        <p>Hello! I'm Michelle, passionate about risk management. Click <a href="https://michelleziqi.github.io/about%20me/">About Me</a> to get more details </p>
         <p>Below are some of my projects.</p>
     </header>
     <main>
