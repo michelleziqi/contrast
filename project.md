@@ -96,5 +96,5 @@ title:  "Project"
         <h4>Credit Credit Fraud Detection</h4>
     </div>
     <p> This project is mainly to apply ML techniques to credit card fraud detection. The output is 'class' labelling, which takes the value of 1 for fraud, and 0 for no fraud. The input are time which means the seconds elapsed between the first transaction in the data set and the subsequent transactions, transaction amount, and principal components obtained using PCA. It has data analysis, model selection (Logistic regression model for both L1 and L2; KNN model; Tree Model; Random Forest; XGBoot Model; SVM model; model validation (Repeated K Fold, Stratified K Fold and Random Oversampling with Stratified K Fold); model evaluation (accuracy, confusion matrix, roc, auc,...); Oversampling method (SMOTE; ADASYN); Model Optimization (Hyperparameter Tuning) </p>
-   <p><a href="path/to/document.docx" target="_blank">Sample Result</a></p>
+   <p><a href="_posts/document.docx" target="_blank">Sample Result</a></p>
 </div>
