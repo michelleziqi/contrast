@@ -88,3 +88,22 @@ title:  "Project"
     </div>
     <p>Designed a multivariable regression with dummy variable to examine the determinants of healthcare expenditure in Canada, test the validity of the regression model and investigate the short-run and long-run impacts in time series data</p>
 </div>
+
+<!-- Project 3 -->
+<div class="project">
+    <div class="title">
+        <i class='fas fa-file-alt' style='font-size:24px'></i>
+        <h4>Credit Credit Fraud Detection</h4>
+    </div>
+    <p> This project is mainly to apply ML techniques to credit card fraud detetion. The output is 'class' labelling, which takes the value of 1 for fraud, and 0 for no fraud. The input are time which means the seconds elapsed between the first transaction in the data set and the subsequent transactions, transaction amount, and principal components obtained using PCA. Based on the exporatory data analysis, there are a total of 284,807 transactions, but there are 492 transactions are fraudulent. Therefore, we could see this dataset is highly unbalanced, with the positive class accounting for 0.172% of total transactions. In addition, when evaluating the data quality, there is no missing data in the dataset. Moreover, I splitted the data into train and test data, then I started to build models. I created and compared six models, they are (1)Logistic regression model for both L1 and L2; (2)KNN model (3)Tree Model (4)Random Forest (5)XGBoot Model (6)SVM model. I peformed cross validation with RepeatedKFold and StratifiedKFold to check which model has best results. Based on Accuracy and ROC value, logistic regression with L2 regulatrisation has provided best results for cross validation with both RepeatedKFold and StratifiedKFold techniques. However, the.... We used both SMOTE and ADASYN Oversampling method to handle with class imbalance. After running the models on oversampled data, XGBOOST model .... Finally, I conducted hyperparameter tuning to XGBoost model.  </p>
+</div>
+
+
+
+
+
+
+
+
+
+
